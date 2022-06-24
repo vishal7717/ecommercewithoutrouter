@@ -1,0 +1,98 @@
+[
+  {
+    "id":"a",
+    "name": "OnePlus TV",
+    "image": "/products/image/tv.jpg",
+    "description": "its 555 inch best TV currently in market",
+    "price": "Your one month salary",
+    "stock":14
+  },
+  {
+    "id":"b",
+    "name": "iPhone 13 Ultra Pro Max 512TB",
+    "image": "/products/image/phone.jpg",
+    "description": "its display is amazing which is manufactured by samsung, bhaut mehanga hai",
+    "price": "Just One Kidney",
+    "stock":14
+  },
+  {
+    "id":"c",
+    "name": "Dodge Challenger Demon SRT",
+    "image": "/products/image/car.jpg",
+    "description": "After a ride you will feel like Pushpak Viman",
+    "price": "Car Price is normal but diesel price is too high",
+    "stock":14
+  },
+  {
+    "id":"d",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "image": "/products/image/airpods.jpg",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 8999.99,
+    "stock":14
+  },
+  {
+    "id":"e",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "image": "/products/image/phone.jpg",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 59999.99,
+    "stock":14
+  },
+  {
+    "id":"f",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "image": "/products/image/camera.jpg",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "price": 92999.99,
+    "stock":14
+  },
+  {
+    "id":"g",
+    "name": "Sony Playstation 4 Pro White Version",
+    "image": "/products/image/playstation.jpg",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "price": 39999.99,
+    "stock":14
+  },
+  {
+    "id":"h",
+    "name": "Logitech G-Series Gaming Mouse",
+    "image": "/products/image/mouse.jpg",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "price": 4999.99,
+    "stock":14
+  },
+  {
+    "id":"i",
+    "name": "Amazon Echo Dot 3rd Generation",
+    "image": "/products/image/alexa.jpg",
+    "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    "price": 2999.99,
+    "stock":14
+  },
+  {
+    "id":"j",
+    "name": "Rocketbook Smart Reusable Notebook",
+    "image": "/products/image/Rocketbook.jpg",
+    "description": "For the eco-conscious note-taker, this smart notebook has 32 pages that are easy to wipe clean with a damp cloth",
+    "price": 999.99,
+    "stock":14
+  },
+  {
+    "id":"k",
+    "name": "LEGO App-controlled Transformation Vehicle",
+    "image": "/products/image/lego.jpg",
+    "description": "When it comes to LEGO, there is a lot of choice. However, this new LEGO Technic set has a unique feature to help it stand out - the ability to control it via an app",
+    "price": 8999.99,
+    "stock":14
+  },
+  {
+    "id":"l",
+    "name": "Withings Body Scan",
+    "image": "/products/image/body_scan.png",
+    "description": "Withings Body Scan is what you would get if you crossed a scale with a doctor that never leaves you alone. On top of the obvious function of informing you of your weight, the Withings Body Scan will also tell you the fat mass of your whole body",
+    "price": 299999.99,
+    "stock":14
+  }
+]
