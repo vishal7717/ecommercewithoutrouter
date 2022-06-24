@@ -1,7 +1,7 @@
 module.exports.init = function()
 {
   const mongoose = require('mongoose');
-  mongoose.connect("mongodb+srv://vishal:12345@cluster0.y2v89.mongodb.net/ecommerce?retryWrites=true&w=majority")
+  mongoose.connect("mongoose cluster link")
   .then(function()
   {
     console.log("db is live")
